@@ -1,0 +1,7 @@
+com/vmall/order/service/impl/OrderServiceImpl.class
+com/vmall/order/dao/JedisClient.class
+com/vmall/order/controller/OrderController.class
+com/vmall/order/service/OrderService.class
+com/vmall/order/pojo/Order.class
+com/vmall/order/dao/impl/JedisClientSingle.class
+com/vmall/order/dao/impl/JedisClientCluster.class

@@ -1,0 +1,7 @@
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/service/OrderService.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/dao/impl/JedisClientSingle.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/controller/OrderController.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/dao/JedisClient.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/service/impl/OrderServiceImpl.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/dao/impl/JedisClientCluster.java
+/Users/liyafei/Documents/workspace/vmall.order/src/main/java/com/vmall/order/pojo/Order.java
