@@ -1,0 +1,11 @@
+com/vmall/search/pojo/Item.class
+com/vmall/search/pojo/SearchResult.class
+com/vmall/search/controller/ItemController.class
+com/vmall/search/service/impl/SearchServiceImpl.class
+com/vmall/search/controller/SearchController.class
+com/vmall/search/dao/impl/SearchDaoImpl.class
+com/vmall/search/dao/SearchDao.class
+com/vmall/search/service/ItemService.class
+com/vmall/search/mapper/ItemMapper.class
+com/vmall/search/service/impl/ItemServiceImpl.class
+com/vmall/search/service/SearchService.class
