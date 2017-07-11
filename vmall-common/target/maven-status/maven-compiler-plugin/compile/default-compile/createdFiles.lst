@@ -1,0 +1,6 @@
+com/vmall/common/pojo/EUDataGridResult.class
+com/vmall/common/pojo/EUTreeNode.class
+com/vmall/common/utils/FtpUtil.class
+com/vmall/common/pojo/VmallResult.class
+com/vmall/common/utils/IDUtils.class
+com/vmall/common/utils/JsonUtils.class
