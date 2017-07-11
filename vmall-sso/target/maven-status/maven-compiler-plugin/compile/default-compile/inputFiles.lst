@@ -1,0 +1,7 @@
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/service/impl/UserServiceImpl.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/service/UserService.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/controller/UserController.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/dao/JedisClient.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/controller/PageController.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/dao/impl/JedisClientSingle.java
+/Users/liyafei/Documents/workspace/vmall-sso/src/main/java/com/vmall/sso/dao/impl/JedisClientCluster.java
